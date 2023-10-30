@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/tanjir-mahabub" target="blank"><img src="https://img.shields.io/twitter/follow/tanjir-mahabub?logo=twitter&style=for-the-badge" alt="tanjir-mahabub" /></a> </p>
 
+I am a skilled and self-motivated web developer with over 5 years of experience in the field. Based in Chattogram, Bangladesh, he has demonstrated a strong aptitude for creating and implementing web applications using a variety of technologies, including HTML, CSS, JavaScript, PHP, and Python. His passion for web development and his drive for continuous learning have enabled him to deliver high-quality, responsive, and user-friendly websites and web applications throughout his career.
+
+In his role as a Senior Frontend Engineer at Softwrd Ltd in Dhaka, Bangladesh, since 2022, Tanjir has been actively involved in various aspects of web development. He has been responsible for designing and developing landing pages, working on the frontend of the company's main application, and conducting code refactoring to improve maintainability and performance. Additionally, his troubleshooting skills have proven invaluable in identifying and addressing technical challenges.
+
+Tanjir's expertise extends beyond the borders of his home country, as evidenced by his time as a Shopify Theme & App Developer at Aiva Labs Inc in Ontario, Canada, from 2021 to 2022. During this period, he specialized in Shopify theme development and app creation, contributing to the enhancement and optimization of Shopify-based online stores. His proficiency in troubleshooting ensured that he could effectively address issues that arose in the course of his work.
+
+Notably, Tanjir has also been an active participant in the freelance marketplace, specifically on platforms like Upwork. Since 2017, he has undertaken freelance web design and development projects, showcasing his ability to transform initial concepts into fully deployed websites. He has dabbled in WordPress theme and plugin development, using tools like wpbackery, Elementor, and Divi theme builder. Moreover, he has ventured into cutting-edge technologies like Next.js and React.js to create headless WordPress websites, demonstrating his adaptability to emerging trends in the industry.
+
+What sets Tanjir apart is his determination as a self-taught web developer. His journey is a testament to his dedication to honing his craft and staying abreast of industry developments. His ability to work both individually and as part of a team reflects his versatile nature and his knack for problem-solving. As a forward-looking and innovative professional, Tanjir Mahabub is poised to contribute his diverse skill set and knowledge to dynamic and pioneering organizations in the web development landscape.
+
 - 🌱 I’m currently learning **NestJs**
 
 - 👨‍💻 All of my projects are available at [https://tanjir-mahabub.dev/projects](https://tanjir-mahabub.dev/projects)
@@ -35,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjir-mahabub&show_icons=true&locale=en" alt="tanjir-mahabub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjir-mahabub&" alt="tanjir-mahabub" /></p>
+
+![GitHub metrics](https://metrics.lecoq.io/tanjir-mahabub)  
