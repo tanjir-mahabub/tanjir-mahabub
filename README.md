@@ -17,7 +17,7 @@ Notably, Tanjir has also been an active participant in the freelance marketplace
 
 What sets Tanjir apart is his determination as a self-taught web developer. His journey is a testament to his dedication to honing his craft and staying abreast of industry developments. His ability to work both individually and as part of a team reflects his versatile nature and his knack for problem-solving. As a forward-looking and innovative professional, Tanjir Mahabub is poised to contribute his diverse skill set and knowledge to dynamic and pioneering organizations in the web development landscape.
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://tanjir-mahabub.dev/projects](https://tanjir-mahabub.dev/projects)
 
