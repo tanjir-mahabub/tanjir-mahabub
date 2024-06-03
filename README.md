@@ -19,13 +19,13 @@ What sets Tanjir apart is his determination as a self-taught web developer. His 
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://tanjir-mahabub.dev/projects](https://tanjir-mahabub.dev/projects)
+- 👨‍💻 All of my projects are available at [https://tanjir.vercel.app/projects](https://tanjir.vercel.app/projects)
 
 - 💬 Ask me about **React, Vue, Angular, Svelte, Nodejs, Php, Python**
 
 - 📫 How to reach me **md.tanjir.mahabub@gmail.com**
 
-- 📄 Know about my experiences [https://tanjir-mahabub.dev](https://tanjir-mahabub.dev)
+- 📄 Know about my experiences [https://tanjir.vercel.app](https://tanjir.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
