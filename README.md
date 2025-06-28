@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tanjir-mahabub" target="blank"><img src="https://img.shields.io/twitter/follow/tanjir-mahabub?logo=twitter&style=for-the-badge" alt="tanjir-mahabub" /></a> </p>
 
-I am a skilled and self-motivated web developer with over 5 years of experience in the field. Based in Chattogram, Bangladesh, he has demonstrated a strong aptitude for creating and implementing web applications using a variety of technologies, including HTML, CSS, JavaScript, PHP, and Python. His passion for web development and his drive for continuous learning have enabled him to deliver high-quality, responsive, and user-friendly websites and web applications throughout his career.
+I am a skilled and self-motivated web developer with over 7 years of experience in the field. Based in Chattogram, Bangladesh, he has demonstrated a strong aptitude for creating and implementing web applications using a variety of technologies, including HTML, CSS, JavaScript, PHP, and Python. His passion for web development and his drive for continuous learning have enabled him to deliver high-quality, responsive, and user-friendly websites and web applications throughout his career.
 
 In his role as a Senior Frontend Engineer at Softwrd Ltd in Dhaka, Bangladesh, since 2022, Tanjir has been actively involved in various aspects of web development. He has been responsible for designing and developing landing pages, working on the frontend of the company's main application, and conducting code refactoring to improve maintainability and performance. Additionally, his troubleshooting skills have proven invaluable in identifying and addressing technical challenges.
 
